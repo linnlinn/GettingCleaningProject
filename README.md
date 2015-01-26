@@ -19,11 +19,17 @@ run_analysis.R does the following:
     of each variable for each activity and each subject.
 
 # Details
-*Step 1 : Download and unzip data
-*Step 2 : Load packages dplyr and plyr
-*Step 3 : Read all the datasets necessary for the project
-*Step 4 : Find the title of each activity for each mesurement using the table of activity codes
-*Step 5 : Create one dataset with all the data
-*Step 6 : Select only the data related to means or standard deviation
-*Step 7 : Summarize the data by test subject and activity type
+Step 1 : Download and unzip data
+
+Step 2 : Load packages dplyr and plyr
+
+Step 3 : Read all the datasets necessary for the project
+
+Step 4 : Find the title of each activity for each mesurement using the table of activity codes
+
+Step 5 : Create one dataset with all the data
+
+Step 6 : Select only the data related to means or standard deviation
+
+Step 7 : Summarize the data by test subject and activity type
 
